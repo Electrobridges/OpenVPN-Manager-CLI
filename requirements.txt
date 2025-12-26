@@ -1,0 +1,12 @@
+# OpenVPN Manager CLI - Dependencias Python
+
+# Terminal UI con formato rico y tablas
+rich>=13.0.0
+
+# Dependencias estándar de Python (incluidas por defecto)
+# - socket: Comunicación con management interface
+# - subprocess: Ejecución de comandos easyrsa
+# - pathlib: Manejo de rutas
+# - datetime: Timestamps
+# - re: Expresiones regulares
+# - time: Sleep y delays
