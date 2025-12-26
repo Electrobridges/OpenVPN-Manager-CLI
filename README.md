@@ -17,7 +17,8 @@ Una aplicación CLI moderna e interactiva para gestionar servidores OpenVPN con 
 
 ## Capturas de Pantalla
 
-_(Añade tus capturas de pantalla en la carpeta `screenshots/`)_
+### Menú Principal
+![Menú Principal](screenshots/Screenshot%202025-12-26%20215936.png)
 
 ## Requisitos Previos
 
